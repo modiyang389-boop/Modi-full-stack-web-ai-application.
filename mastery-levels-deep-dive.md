@@ -1,1 +1,3 @@
 
+
+Bloom’s Taxonomy breaks down the path to subject mastery into six progressive stages, illustrated here through learning HTML. It begins with Remembering, where you memorize basic facts like HTML tag syntax, which leads into Understanding as you grasp how those tags work together to structure a page. Next, you Apply this knowledge by writing code to build a functional site, followed by Analyzing, where you examine the page's underlying structure and troubleshoot issues. From there, you Evaluate your work by assessing code efficiency and determining necessary upgrades, before ultimately reaching the highest stage—Creating—where full mastery enables you to develop entirely new tools, such as building your own programming language or web framework.
