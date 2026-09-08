@@ -1,1 +1,1 @@
-
+i learned how to use git and GitHub to upload files and folders from local repo to GitHub. the two ways are using git and the other is using GitHub. using git is easier to upload larger files of code.
