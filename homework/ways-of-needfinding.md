@@ -1,5 +1,5 @@
 
-| needfinding methpds | advantages                              | disadvantage                 | when work best                          |   |
+| needfinding methods | advantages                              | disadvantage                 | when work best                          |   |
 |---------------------|-----------------------------------------|------------------------------|-----------------------------------------|---|
 | survey              | lots of data                            | might be biasis              | wwhen need lots of peoples ideas        |   |
 | interview           | detailed data                           | takes time                   | when need detailed data                 |   |
